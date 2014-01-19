@@ -25,6 +25,7 @@ Bundle 'https://github.com/scrooloose/nerdtree.git'
 "" Syntax
 syntax on
 set background=dark
+colorscheme darkblue
 " solarized options 
 "let g:solarized_termcolors = 256
 "let g:solarized_visibility = "high"
