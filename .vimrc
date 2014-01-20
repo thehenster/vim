@@ -37,10 +37,10 @@ set expandtab
 set shiftwidth=2
 set softtabstop=2
 
-set cindent
+" set cindent
 set smartindent
 set autoindent
-set cinkeys=0{,0},:,0#,!,!^F
+" set cinkeys=0{,0},:,0#,!,!^F
 
 " Buffer navigation
 map ;n :bn<cr>
